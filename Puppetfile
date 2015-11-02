@@ -2,4 +2,4 @@ forge "https://forge.puppetlabs.com/"
 
 mod 'testpp',
   :git => 'https://github.com/bhegazy/testpp.git',
-  :branch => 'master'
+  :branch => 'test_message'
