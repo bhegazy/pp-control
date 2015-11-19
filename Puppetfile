@@ -1,8 +1,9 @@
 forge "https://forge.puppetlabs.com/"
 mod 'puppetlabs/ntp'
+mod 'puppetlabs/stdlib'
 mod 'puppetlabs/concat'
- # :git => 'git@github.com:puppetlabs/puppetlabs-concat.git',
-#  :branch => 'master'
+   :git => 'git@github.com:puppetlabs/puppetlabs-concat.git',
+  :branch => 'master'
 mod 'testpp',
   :git => 'https://github.com/bhegazy/testpp.git',
   :branch => 'master'
