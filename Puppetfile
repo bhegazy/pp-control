@@ -1,7 +1,8 @@
 forge "https://forge.puppetlabs.com/"
+
 mod 'puppetlabs/ntp',
 
-mod 'puppetlabs/stdlib',
+#mod 'puppetlabs/stdlib',
 
 mod 'puppetlabs/concat',
   :git => 'git@github.com:puppetlabs/puppetlabs-concat.git',
