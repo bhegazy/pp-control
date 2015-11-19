@@ -1,6 +1,6 @@
 forge "https://forge.puppetlabs.com/"
 mod 'puppetlabs/ntp'
-mod 'testconcat',
+mod 'concat',
   :git => 'https://github.com/puppetlabs/puppetlabs-concat',
   :branch => '2.0.x'
 mod 'testpp',
