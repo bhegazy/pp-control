@@ -1,7 +1,6 @@
 forge "https://forge.puppetlabs.com/"
-
-mod 'puppetlabs/ntp',
-#mod 'puppetlabs/stdlib',
+mod 'puppetlabs/ntp'
+mod 'puppetlabs/concat'
 mod 'testpp',
   :git => 'https://github.com/bhegazy/testpp.git',
   :branch => 'master'
