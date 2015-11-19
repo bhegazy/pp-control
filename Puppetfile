@@ -2,7 +2,7 @@ forge "https://forge.puppetlabs.com/"
 mod 'puppetlabs/ntp'
 mod 'testconcat',
   :git => 'https://github.com/puppetlabs/puppetlabs-concat',
-  :branch => 'development'
+  :branch => '2.0.x'
 mod 'testpp',
   :git => 'https://github.com/bhegazy/testpp.git',
   :branch => 'master'
