@@ -4,7 +4,7 @@ mod 'puppetlabs/ntp'
 
 #mod 'puppetlabs/stdlib',
 
-mod 'puppetlabs/concat'
+mod 'concat'
   :git => 'git@github.com:puppetlabs/puppetlabs-concat.git',
   :branch => 'master'
 
