@@ -10,3 +10,6 @@ mod 'testpp',
 mod 'mco_shell',
   :git => 'https://github.com/bhegazy/mco_shell',
   :branch => 'master'
+mod 'classifer',
+  :git => 'https://github.com/puppetlabs/classifier.git'
+  :branch => 'master'
