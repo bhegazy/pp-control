@@ -7,9 +7,6 @@ mod "puppetlabs/firewall", "1.4.0"
 mod "puppetlabs/dhcp", "0.3.0" 
 mod "saz/dnsmasq", "1.2.0" 
 mod "ghoneycutt/dnsclient", "3.2.0" 
-mod "acidprime/r10k",
-  :git => 'https://github.com/acidprime/r10k'
-  :branch => 'master'
 mod "thias/squid3", "0.2.3" 
 mod "thias/tuned", "1.0.0" 
 #mod "jfryman/selinux", "0.2.3" 
@@ -25,3 +22,7 @@ mod "razorsedge/snmp", "3.3.1"
 mod "rodjek/logrotate", "1.1.1" 
 mod "mjhas/postfix", "1.0.0" 
 mod "wdijkerman/zabbix", "1.7.0"
+
+mod "acidprime/r10k"
+  :git => 'https://github.com/acidprime/r10k'
+  :branch => 'master'
