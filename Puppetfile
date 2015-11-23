@@ -24,5 +24,5 @@ mod "mjhas/postfix", "1.0.0"
 mod "wdijkerman/zabbix", "1.7.0"
 
 mod "acidprime/r10k"
-  :git => 'https://github.com/acidprime/r10k'
-  :branch => 'master'
+:git => 'https://github.com/acidprime/r10k'
+
